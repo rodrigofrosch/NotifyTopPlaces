@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Notify Top Places</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="collapsed_image">A single Android robot waving. Symbolises a collapsed
+        notification.</string>
+    <string name="sticker_notification">Sticker notification</string>
+</resources>

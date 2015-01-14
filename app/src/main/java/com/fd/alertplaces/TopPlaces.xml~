@@ -1,0 +1,12 @@
+<TopPlaces>
+	<name>McDonald´s</name>
+	<vicinity>Rua Maria Cândida, 1676 - Vila Guilherme, São Paulo</vicinity>
+	<type>restaurant</type>
+	<type>food</type>
+	<location>
+		<lat>-23.5077130</lat>
+		<lng>-46.5992320</lng>
+	</location>
+	<reference>link and font reference</reference>
+	<opening_hours></opening_hours>
+</TopPlaces>
